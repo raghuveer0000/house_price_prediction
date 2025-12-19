@@ -39,7 +39,7 @@ model.fit(X_train, y_train)
 
 
 joblib.dump(model, "house_price_model.pkl")
-print("✅ Model trained and saved as house_price_model.pkl")
+print(" Model trained and saved as house_price_model.pkl")
 
 
 
